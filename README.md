@@ -2,8 +2,8 @@
 
 A Python toolkit for calculating and analyzing the Multidimensional Poverty Index (MPI) using customizable weights and domains.
 
-![MPI Visualization Example](https://ophi.org.uk/wp-content/uploads/MPI_2023_methodology_1200x600-1024x683.jpg)  
-*(Example MPI visualization - Replace with your own image if needed)*
+![read from the oxpohord poverty and human development initative of the oxford university](ophi.org.uk) 
+
 
 ## Features
 
