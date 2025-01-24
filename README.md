@@ -19,10 +19,10 @@ A Python toolkit for calculating and analyzing the Multidimensional Poverty Inde
 
 ### Basic Execution
 ```bash
-python mpi_analyzer.py \
-    --data poverty_data.csv \
-    --dimensions '{"Health": ["Nutrition", ...], "Education": [...]}' \
-    --output results
+calcuakte_mpi(
+    data = poverty_data.csv,
+    dimensions = '{"Health": ["Nutrition", ...], "Education": [...]}',
+    output results(
 ```
 
 ### Example Dataset Structure
