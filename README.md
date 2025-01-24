@@ -2,7 +2,7 @@
 
 A Python toolkit for calculating and analyzing the Multidimensional Poverty Index (MPI) using customizable weights and domains.
 
-![read from the oxpohord poverty and human development initative of the oxford university](ophi.org.uk) 
+![read from the oxphord poverty and human development initative of the oxford university](ophi.org.uk) 
 
 
 ## Features
